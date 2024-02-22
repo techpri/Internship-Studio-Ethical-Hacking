@@ -1,2 +1,3 @@
 # Internship-Studio-Ethical-Hacking
-For task 1 and task 2 please refer the wiki section. 
+Hello Internship Studio,
+  These are the assesment that were given,in order to complete this internship.
